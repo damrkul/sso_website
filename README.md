@@ -1,5 +1,4 @@
 # sso_website
-# sso_python
 
 ## Overview
 During an interview I was asked about how I would create a Single Sign On.   I thought it was an interesting topic, so I decided to give my self a quick excercise to see if I could do it.
