@@ -26,7 +26,17 @@ You can go to any of these sites for a live demo.
 - http://www.prekl.com
 - http://www.rekous.net
 
-- Autentication Server:  http://161.35.178.32:8888
+- Authentication Server:  http://161.35.178.32:8888
+
+- You can use default username/password of :  jrankin/jpass 
+- You can also create your own user too by clicking Register if you are logged out.
+
+- You can check which users are by accessing the endpoint:
+http://161.35.178.32:8888/users
+
+
+- You can check which tokens are assoicated to which username by accessing the endpoint:
+http://161.35.178.32:8888/tokens
 
 
 
